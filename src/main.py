@@ -3,7 +3,7 @@ import numpy as np
 import utils
 import fourrier
 
-path = "../Tests/test2.mp4"
+path = "../Tests/usa.mp4"
 cap = cv2.VideoCapture(path)
 ret, now = cap.read()
 
