@@ -14,6 +14,10 @@ So we can generate a probability map of pixels that belongs to moving elements. 
 <!--   <img src="/img3.png" width="100" /> -->
 </p>
 
+## Run Demo
+    cd src
+    python3 main.py
+
 
 
 
