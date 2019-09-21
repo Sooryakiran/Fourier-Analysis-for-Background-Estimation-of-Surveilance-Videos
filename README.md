@@ -18,7 +18,7 @@ So we can generate a probability map of pixels that belongs to moving elements. 
     cd src
     python3 main.py
 
-## Python Packages Requires
+## Python Packages Required
     OpenCV
     Numpy
     Matplotlib
